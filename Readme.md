@@ -7,6 +7,6 @@ Usage: php XCMValidate.php <TargetIGC File>
 
 Program exit code:
 
-Code 0: on sucess
+Code 0:  Sucess
 
-Code Other: on fail
+Code Other then 0: Fail
