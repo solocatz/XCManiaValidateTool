@@ -1,5 +1,5 @@
 
-#XCMania Validate Program
+# XCMania IGC Validator
 
 It's very similar to XCTrack/XCSoar validate tool.
 
