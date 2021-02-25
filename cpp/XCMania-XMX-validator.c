@@ -1,6 +1,4 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS
-// xcm-validator.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
-//
 
 #include <iostream>
 #include <windows.h>
@@ -19,7 +17,6 @@
 
 const char pub_pem[] =
 "-----BEGIN PUBLIC KEY-----\r\n"
-///*
 "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxFcKg7r6kBHH+JFnuR71sGaHS\r\n"
 "J0LssA4s539OmgY2oZOuNV2cnV0wAfhVR1S1YAair4n4CFEUWEvwOej6RydeDZni\r\n"
 "yKBQv8opnjA2S5kTqpfVMQFlmMUecQwCLnh5qWJOwohfewJrd34F37okTAeUs4Mi\r\n"

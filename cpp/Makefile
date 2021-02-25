@@ -1,3 +1,3 @@
 all:
-	gcc -Wall -c xcm-validator.c -o xcm-validator.o
-	gcc xcm-validator.o -lcrypto -lssl -o xcm-validator
+	gcc -Wall -c XCMania-XMX-validator.c -o XCMania-XMX-validator.o
+	gcc XCMania-XMX-validator.o -lcrypto -lssl -o XCMania-XMX-validator

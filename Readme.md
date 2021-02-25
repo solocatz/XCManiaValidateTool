@@ -4,11 +4,11 @@
 It's very similar to XCTrack/XCSoar validate tool.
 
 ## PHP
-Usage: php XCMValidate.php “TargetIGC File”
+Usage: php XCMania-XMX-Validate.php “TargetIGC File”
 
 ## Win32
 
-xcm-validator.exe "TargetIGC File"
+XCMania-XMX-validator.exe "TargetIGC File"
 
 ## Exit Code
 
